@@ -1,0 +1,17 @@
+﻿<h1>Numbers To @(ViewBag.Count)<h1>
+@{
+	for (int i = 1; i <= ViewBag.Count; i++)
+	{
+		<li>@(i)</li>
+	}
+}
+<form asp-controller="Numbers" asp-action="NumbersToN" method="post">
+	<div class="row" >
+		<div class="col-2">
+			<input class="form-control" type="number" min="0" step="1" name="number"/>
+		</div>
+		<div class="col-2" >
+		   <button class="btn btn-primary">Submit</button>
+		</div>
+	</div>
+</form>

@@ -1,0 +1,22 @@
+﻿@model IEnumerable<ProductViewModel>
+<table class="table table-success table-striped-columns">
+	<thead>
+		<tr>
+			<th scope="col">#</th>
+			<th scope="col">ProductName</th>
+			<th scope="col">Price</th>
+		</tr>
+	</thead>
+	@{
+		foreach (var item in Model)
+		{
+			<tbody>
+				<tr>
+					<th scope="row">@item.Id</th>
+					<td>@item.Name</td>
+					<td>@item.Price</td>
+				</tr>
+			</tbody>
+		}
+	}
+</table>
