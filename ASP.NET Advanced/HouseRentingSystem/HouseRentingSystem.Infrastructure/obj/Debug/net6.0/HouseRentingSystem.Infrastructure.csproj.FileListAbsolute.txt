@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\HouseRentingSystem\HouseRentingSystem.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HouseRentingSystem\HouseRentingSystem.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HouseRentingSystem\HouseRentingSystem.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HouseRentingSystem\HouseRentingSystem.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\User\source\repos\HouseRentingSystem\HouseRentingSystem.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HouseRentingSystem\HouseRentingSystem.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Infrastructure.deps.json
+C:\Users\User\source\repos\HouseRentingSystem\HouseRentingSystem.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Infrastructure.dll
+C:\Users\User\source\repos\HouseRentingSystem\HouseRentingSystem.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Infrastructure.pdb
+C:\Users\User\source\repos\HouseRentingSystem\HouseRentingSystem.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.dll
+C:\Users\User\source\repos\HouseRentingSystem\HouseRentingSystem.Infrastructure\obj\Debug\net6.0\refint\HouseRentingSystem.Infrastructure.dll
+C:\Users\User\source\repos\HouseRentingSystem\HouseRentingSystem.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.pdb
+C:\Users\User\source\repos\HouseRentingSystem\HouseRentingSystem.Infrastructure\obj\Debug\net6.0\ref\HouseRentingSystem.Infrastructure.dll

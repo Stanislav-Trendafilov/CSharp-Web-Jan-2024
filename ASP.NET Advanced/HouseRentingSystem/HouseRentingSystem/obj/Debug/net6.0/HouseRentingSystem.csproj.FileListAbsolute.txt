@@ -74,3 +74,7 @@ C:\Users\User\source\repos\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.
 C:\Users\User\source\repos\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\HouseRentingSystem.pdb
 C:\Users\User\source\repos\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\HouseRentingSystem.genruntimeconfig.cache
 C:\Users\User\source\repos\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\ref\HouseRentingSystem.dll
+C:\Users\User\source\repos\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.Core.dll
+C:\Users\User\source\repos\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.Infrastructure.dll
+C:\Users\User\source\repos\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.Core.pdb
+C:\Users\User\source\repos\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.Infrastructure.pdb

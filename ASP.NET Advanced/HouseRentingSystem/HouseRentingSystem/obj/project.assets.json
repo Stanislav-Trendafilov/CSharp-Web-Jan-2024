@@ -951,6 +951,33 @@
             "rid": "win"
           }
         }
+      },
+      "HouseRentingSystem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "HouseRentingSystem.Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HouseRentingSystem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HouseRentingSystem.Core.dll": {}
+        }
+      },
+      "HouseRentingSystem.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.10",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.10"
+        },
+        "compile": {
+          "bin/placeholder/HouseRentingSystem.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HouseRentingSystem.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -2442,10 +2469,22 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "HouseRentingSystem.Core/1.0.0": {
+      "type": "project",
+      "path": "../HouseRentingSystem.Core/HouseRentingSystem.Core.csproj",
+      "msbuildProject": "../HouseRentingSystem.Core/HouseRentingSystem.Core.csproj"
+    },
+    "HouseRentingSystem.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../HouseRentingSystem.Infrastructure/HouseRentingSystem.Infrastructure.csproj",
+      "msbuildProject": "../HouseRentingSystem.Infrastructure/HouseRentingSystem.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "HouseRentingSystem.Core >= 1.0.0",
+      "HouseRentingSystem.Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.10",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.10",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.10",
@@ -2484,7 +2523,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\User\\source\\repos\\HouseRentingSystem\\HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\HouseRentingSystem\\HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj"
+            },
+            "C:\\Users\\User\\source\\repos\\HouseRentingSystem\\HouseRentingSystem.Infrastructure\\HouseRentingSystem.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\HouseRentingSystem\\HouseRentingSystem.Infrastructure\\HouseRentingSystem.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
